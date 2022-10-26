@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, music and poetry 
 - 🌱 I’m currently learning Java and javascript 
 - 💞️ I’m looking to collaborate on frontend projects
-- 📫 How to reach me 
+- 📫 How to reach me <br>
 Discord ____ Kiztbz#4016
 Instagram __ @kiztbz
 

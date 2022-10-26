@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java and javascript 
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me <br>
-Discord ____ Kiztbz#4016
+Discord ____ Kiztbz#4016<br>
 Instagram __ @kiztbz
 
 <!---

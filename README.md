@@ -1,28 +1,17 @@
-```{=html}
+
 <!-- HEADER -->
-```
-```{=html}
 <h1 align="center">
-```
 Hi, I'm Pragya 👋
-```{=html}
 </h1>
-```
-```{=html}
 <h3 align="center">
-```
 Builder • Developer • Community Architect • Storyteller
-```{=html}
 </h3>
-```
-```{=html}
 <p align="center">
-```
-I build systems, communities, and ideas that turn `<b>`{=html}learning
-into action`</b>`{=html}.
-```{=html}
+
+I build systems, communities, and ideas that turn <b>learning
+into action</b>
 </p>
-```
+
 
 ------------------------------------------------------------------------
 

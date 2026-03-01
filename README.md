@@ -46,7 +46,7 @@ philosophy: "community → systems → sustainability → scale"
 | Multicultural, ethical, collaborative | Linux • Hackathons • Films | Structured teams, real clients |
 
 | 👶 Llemur | 🧠 Alpaca |
-|:---:|:---:|:---:|
+|:---:|:---:|
 | Enterprise childcare SaaS | Learning reinforcement app | 
 | Compliance + docs + reporting | Notes → Quizzes → Recall | 
 

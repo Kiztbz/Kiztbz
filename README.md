@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20[Your%20Name]%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Builder%20•%20Founder%20•%20Systems%20Thinker&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20[Kiz]%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Builder%20•%20Founder%20•%20Systems%20Thinker&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%40+India+🇮🇳;Founder+of+T.E.C+%7C+LLAMA+Cooperative;Building+tech+that+creates+real+impact;Communities+→+Systems+→+Scale" alt="Typing SVG" />

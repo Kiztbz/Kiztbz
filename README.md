@@ -10,8 +10,8 @@
 
 <!-- Profile Views + Social Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=kiztbz&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kiztbz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://kiztbz.in)
 
 </div>
 

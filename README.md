@@ -1,78 +1,131 @@
+```{=html}
 <!-- HEADER -->
-<h1 align="center">Hi, I'm Pragya 👋</h1>
-<h3 align="center">Builder • Developer • Community Architect • Storyteller</h3>
-
+```
+```{=html}
+<h1 align="center">
+```
+Hi, I'm Pragya 👋
+```{=html}
+</h1>
+```
+```{=html}
+<h3 align="center">
+```
+Builder • Developer • Community Architect • Storyteller
+```{=html}
+</h3>
+```
+```{=html}
 <p align="center">
-I build systems, communities, and ideas that turn <b>learning into action</b>.
+```
+I build systems, communities, and ideas that turn `<b>`{=html}learning
+into action`</b>`{=html}.
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
 ## ⚡ About Me
 
-```txt
+``` txt
 Computer Science Student
 Startup Builder
 Linux Enthusiast
 AI Explorer
 Filmmaker
 Community Founder
+```
 
-🧠 Creating tech that helps people learn, organize, and grow
+-   🧠 Creating tech that helps people **learn, organize, and grow**
+-   🚀 Building products + communities simultaneously
+-   🎬 Mixing technology with storytelling
+-   🌍 Interested in ethical, scalable systems
 
-🚀 Building products + communities simultaneously
+------------------------------------------------------------------------
 
-🎬 Mixing technology with storytelling
+## 🧩 Currently Building
 
-🌍 Interested in ethical, scalable systems
+-   🦙 **LLAMA.coop** --- technology & education cooperative\
+-   🧠 **Alpaca** --- learning reinforcement system\
+-   👶 **Llemur** --- enterprise childcare management platform\
+-   💳 **Biopay** --- biometric payment concept\
+-   🤖 Cross-device personal AI assistant
 
-🧩 Currently Building
+------------------------------------------------------------------------
 
-🦙 LLAMA.coop — technology & education cooperative
+## 🛠️ Tech Stack
 
-🧠 Alpaca — learning reinforcement system
+```{=html}
+<p align="center">
+```
+`<img src="https://skillicons.dev/icons?i=c,js,python,react,linux,git,github,vercel,supabase,java" />`{=html}
+```{=html}
+</p>
+```
 
-👶 Llemur — enterprise childcare management platform
+------------------------------------------------------------------------
 
-💳 Biopay — biometric payment concept
+## 📊 GitHub Stats
 
-🤖 Cross-device personal AI assistant
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="160"/>`{=html}
+`<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" height="160"/>`{=html}
+```{=html}
+</p>
+```
 
-🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,js,python,react,linux,git,github,vercel,supabase,java" /> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" height="160"/> </p>
-🧠 Coding Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true&area=true" /> </p>
-🧭 Philosophy
+------------------------------------------------------------------------
 
-Build things that outlive motivation.
-Systems > Ideas.
-Communities > Audiences.
+## 🧠 Coding Activity
 
-🌱 Beyond Code
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true&area=true" />`{=html}
+```{=html}
+</p>
+```
 
-🎬 Short films & cinematography
+------------------------------------------------------------------------
 
-🧪 Hackathons & experiments
+## 🧭 Philosophy
 
-🌏 Student communities & mentorship
+> Build things that outlive motivation.\
+> Systems \> Ideas.\
+> Communities \> Audiences.
 
-⚙️ Automation-driven living
+------------------------------------------------------------------------
 
-🤝 Connect
-<p align="center"> <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://skillicons.dev/icons?i=linkedin"/></a> <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail"/></a> <a href="https://YOUR_PORTFOLIO"><img src="https://skillicons.dev/icons?i=webstorm"/></a> </p>
-<p align="center"> <i>"I don't just write code. I build ecosystems."</i> </p> ```
-✅ Why this README works (design intent)
+## 🌱 Beyond Code
 
-This version is:
+-   🎬 Short films & cinematography\
+-   🧪 Hackathons & experiments\
+-   🌏 Student communities & mentorship\
+-   ⚙️ Automation-driven living
 
-Short enough to read fully
+------------------------------------------------------------------------
 
-High visual density (what strong GitHub profiles use)
+## 🤝 Connect
 
-Founder + engineer identity
+```{=html}
+<p align="center">
+```
+`<a href="https://linkedin.com/in/YOUR_LINK">`{=html}`<img src="https://skillicons.dev/icons?i=linkedin"/>`{=html}`</a>`{=html}
+`<a href="mailto:YOUR_EMAIL">`{=html}`<img src="https://skillicons.dev/icons?i=gmail"/>`{=html}`</a>`{=html}
+`<a href="https://YOUR_PORTFOLIO">`{=html}`<img src="https://skillicons.dev/icons?i=webstorm"/>`{=html}`</a>`{=html}
+```{=html}
+</p>
+```
 
-Memorable closing line
+------------------------------------------------------------------------
 
-Optimized for recruiter + collaborator first impression (~8 seconds)
+```{=html}
+<p align="center">
+```
+`<i>`{=html}"I don't just write code. I build ecosystems."`</i>`{=html}
+```{=html}
+</p>
+```

@@ -1,180 +1,181 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Kiz%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Builder%20•%20Founder%20•%20Systems%20Thinker&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d1117,100:001a00&height=220&section=header&text=Kiz&fontSize=90&fontColor=00ff41&fontAlignY=55&stroke=00ff41&strokeWidth=1&animation=twinkling" width="100%"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%40+India+🇮🇳;Founder+of+T.E.C+%7C+LLAMA+Cooperative;Building+tech+that+creates+real+impact;Communities+→+Systems+→+Scale" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=root%40kiz%3A~%24+whoami;%3E+CS+Student+%7C+Founder+%7C+Systems+Architect;%3E+Building+LLAMA+Cooperative+%26+T.E.C;%3E+Turning+communities+into+ecosystems;%3E+%5Bprocess+running...%5D" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile Views + Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=kiztbz&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kiztbz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://kiztbz.in)
+![Profile Views](https://komarev.com/ghpvc/?username=kiztbz&style=for-the-badge&color=00ff41&label=VISITORS&labelColor=0d1117)
+[![LinkedIn](https://img.shields.io/badge/─_LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0d1117)](https://linkedin.com/in/kiztbz)
+[![Portfolio](https://img.shields.io/badge/─_kiztbz.in-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff41&labelColor=0d1117)](https://kiztbz.in)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## `$ cat about.yaml`
 
 ```yaml
-name:       "[Your Name]"
-location:   "India 🇮🇳"
-role:       "CS Student → Systems Builder → Founder"
-focus:      ["Technology", "Education", "Entrepreneurship", "Community"]
-
-currently:
-  - 🦙 Building LLAMA Cooperative — a tech & learning ecosystem
-  - 🌱 Founding & growing T.E.C (The Echo Community)
-  - 🧠 Developing Alpaca — a learning reinforcement app
-  - 👶 Building Llemur — enterprise childcare management SaaS
-
-philosophy: "community → systems → sustainability → scale"
+┌──────────────────────────────────────────────────────────┐
+│                     SYSTEM PROFILE                       │
+├──────────────────────────────────────────────────────────┤
+│  handle:      "kiz"                                      │
+│  location:    "India 🇮🇳"                                │
+│  role:        "CS Student → Systems Architect → Founder" │
+│  kernel:      "community → systems → sustainability"     │
+├──────────────────────────────────────────────────────────┤
+│  processes:                                              │
+│    [1] LLAMA Cooperative  ···  tech & learning ecosystem │
+│    [2] T.E.C              ···  student-led tech community│
+│    [3] Alpaca             ···  learning reinforcement app│
+│    [4] Llemur             ···  enterprise childcare SaaS │
+├──────────────────────────────────────────────────────────┤
+│  uptime:      still running...                           │
+└──────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🚀 Ventures & Builds
-
-<div align="center">
-
-| 🦙 LLAMA Cooperative | 🌱 T.E.C | 🌐 Web Agency |
-|:---:|:---:|:---:|
-| Tech & learning cooperative | Student-led tech community | Websites → jobs → passive income |
-| Multicultural, ethical, collaborative | Linux • Hackathons • Films | Structured teams, real clients |
-
-| 👶 Llemur | 🧠 Alpaca |
-|:---:|:---:|
-| Enterprise childcare SaaS | Learning reinforcement app | 
-| Compliance + docs + reporting | Notes → Quizzes → Recall | 
-
-</div>
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-**Backend & Runtime**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Databases & Services**
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**DevOps & Tooling**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiztbz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiztbz&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=kiztbz&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kiztbz&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🎬 Beyond Code
+## `$ ls -la ventures/`
 
 ```
-🎥  Cinematographer & Video Editor  —  "Epitoma of Destruction" (environmental short film)
-📸  Product Photographer             —  Commercial client work
-🎮  Game Developer                   —  Llamassasins • Don't Deflate • Java 2D games
-🐧  Linux Educator                   —  Linux course for engineering students
-🌮  Food Entrepreneur                —  College food truck: Twisters • Tacos • Nachos
+drwxr-xr-x  🦙  llama-cooperative/     Tech & learning cooperative. Multicultural, ethical, collaborative.
+drwxr-xr-x  🌱  TEC/                   Student-led tech hub. Linux • Hackathons • Films • Code.
+drwxr-xr-x  🌐  web-agency/            Real clients → Real teams → Passive income architecture.
+drwxr-xr-x  👶  llemur/               Enterprise childcare SaaS. Compliance + Docs + Reporting.
+drwxr-xr-x  🧠  alpaca/               Notes → Quizzes → Active Recall. Learning, reinforced.
 ```
 
 ---
 
-## 🌱 What I'm Building Toward
+## `$ neofetch --stack`
 
 <div align="center">
 
-```
-💡  Not just writing code — building ecosystems.
-🤝  Not just learning — creating platforms others learn through.
-🌍  Not just working — building systems that create opportunities for others.
-```
+**// Languages**
+
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00ff41&labelColor=0d1117)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00ff41&labelColor=0d1117)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00ff41&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff41&labelColor=0d1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00e5ff&labelColor=0d1117)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff41&labelColor=0d1117)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00ff41&labelColor=0d1117)
+![Shell](https://img.shields.io/badge/Shell-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff41&labelColor=0d1117)
+
+**// Frontend**
+
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00e5ff&labelColor=0d1117)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=00ff41&labelColor=0d1117)
+
+**// Backend & Runtime**
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00ff41&labelColor=0d1117)
+![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=00ff41&labelColor=0d1117)
+
+**// Data Layer**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00e5ff&labelColor=0d1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00ff41&labelColor=0d1117)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=00ff41&labelColor=0d1117)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=ffca28&labelColor=0d1117)
+
+**// DevOps & Infra**
+
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff41&labelColor=0d1117)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05032&labelColor=0d1117)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff41&labelColor=0d1117)
+![Shopify](https://img.shields.io/badge/Shopify-0d1117?style=for-the-badge&logo=shopify&logoColor=96bf48&labelColor=0d1117)
 
 </div>
 
-> *"I think in terms of community → systems → sustainability → scale."*
-
 ---
 
-## 📈 Contribution Activity
+## `$ git log --stat`
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kiztbz&theme=tokyo-night&hide_border=false&border_radius=12&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=kiztbz&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_radius=6&border_color=00ff41&bg_color=0d1117&title_color=00ff41&icon_color=00e5ff&text_color=c9d1d9"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiztbz&layout=compact&langs_count=8&theme=chartreuse-dark&border_radius=6&border_color=00ff41&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kiztbz&theme=dark&background=0d1117&border=00ff41&ring=00ff41&fire=00e5ff&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=8b949e&dates=8b949e&border_radius=6)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🤝 Let's Build Together
+## `$ github-profile-trophy --user=kiztbz`
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kiztbz&theme=matrix&no-frame=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## `$ cat /proc/hobbies`
+
+```bash
+#!/bin/bash
+# Non-technical processes running in background
+
+CINEMATOGRAPHER=true    # "Epitoma of Destruction" — environmental short film
+PHOTOGRAPHER=true       # Product photography for commercial clients
+GAME_DEV=true           # Llamassasins • Don't Deflate • Java 2D engine
+LINUX_EDUCATOR=true     # Teaching Linux to engineering students
+FOOD_FOUNDER=true       # College food truck: Twisters • Tacos • Nachos
+
+echo "Multi-threaded human. Still compiling..."
+```
+
+---
+
+## `$ ./mission.sh`
+
+```
+> Not just writing code    —  building ecosystems.
+> Not just learning        —  creating platforms others learn through.
+> Not just working         —  building systems that open doors for others.
+
+[INFO] core philosophy: community → systems → sustainability → scale
+[INFO] current status:  executing...
+```
+
+---
+
+## `$ grep -r activity . --graph`
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kiztbz&theme=react-dark&hide_border=false&border_color=00ff41&bg_color=0d1117&color=00ff41&line=00e5ff&point=00ff41&area=true&area_color=00ff41)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## `$ ping kiz --collaborate`
 
 <div align="center">
 
 *Open to collaborations on impactful tech, community systems, and ethical ventures.*
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/─_EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0d1117)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/─_LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0d1117)](https://linkedin.com/in/kiztbz)
+[![Twitter](https://img.shields.io/badge/─_TWITTER-0d1117?style=for-the-badge&logo=twitter&logoColor=00ff41&labelColor=0d1117)](https://twitter.com/YOUR_HANDLE)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+```
+connection established. awaiting handshake...
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,50:0d1117,100:000000&height=100&section=footer&fontColor=00ff41" width="100%"/>
 
 </div>
